@@ -1,0 +1,17 @@
+{
+  "name": "s3-upload",
+  "version": "1.0.0",
+  "description": "S3 notification lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "aws-sdk": "^2.439.0",
+    "gm": "^1.23.1",
+    "util": "^0.11.1"
+  }
+}
